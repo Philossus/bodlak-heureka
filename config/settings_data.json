@@ -1,0 +1,1814 @@
+{
+  "current": {
+    "heading_color": "#7c2825",
+    "text_color": "#677279",
+    "accent_color": "#d84641",
+    "link_color": "#d84641",
+    "border_color": "#e1e3e4",
+    "background": "#f3f5f6",
+    "secondary_background": "#ffffff",
+    "error_color": "#d84641",
+    "success_color": "#00cc99",
+    "primary_button_background": "#00cc99",
+    "primary_button_text_color": "#ffffff",
+    "secondary_button_background": "#7c2825",
+    "secondary_button_text_color": "#ffffff",
+    "header_background": "#ffffff",
+    "header_text_color": "#7c2825",
+    "header_light_text_color": "#677279",
+    "product_on_sale_accent": "#ee0000",
+    "product_in_stock_color": "#008a00",
+    "product_low_stock_color": "#ee0000",
+    "product_sold_out_color": "#8a9297",
+    "product_label_1_background": "#7c2825",
+    "product_label_2_background": "#d84641",
+    "product_star_color": "#ffbd00",
+    "base_text_font_size": 16,
+    "heading_font": "avenir_next_rounded_n7",
+    "text_font": "avenir_next_rounded_n5",
+    "underline_links": true,
+    "animation_image_zoom": true,
+    "currency_conversion_enabled": true,
+    "currency_conversion_round_amounts": false,
+    "currency_conversion_supported_currencies": "EUR GBP",
+    "currency_conversion_money_format": "money_format",
+    "search_mode": "product,article,page",
+    "show_vendor": true,
+    "show_secondary_image": true,
+    "show_discount": true,
+    "discount_mode": "saving",
+    "product_price_position": "after_title",
+    "product_image_size": "natural",
+    "show_color_swatch": false,
+    "show_inventory_quantity": true,
+    "low_inventory_threshold": 6,
+    "show_reviews_badge": false,
+    "cart_type": "drawer",
+    "cart_empty_button_link": "shopify:\/\/collections\/vsechna-vina",
+    "cart_show_free_shipping_threshold": true,
+    "cart_free_shipping_threshold": "1800",
+    "share_image": "",
+    "social_facebook": "https:\/\/www.facebook.com\/vinoodbodlaku\/",
+    "social_twitter": "",
+    "social_pinterest": "",
+    "social_instagram": "https:\/\/www.instagram.com\/vino_od_bodlaku\/",
+    "social_vimeo": "",
+    "social_tumblr": "",
+    "social_youtube": "https:\/\/www.youtube.com\/channel\/UCmOnQqwYbw5UrRo9qG8s1rw",
+    "social_linkedin": "",
+    "social_snapchat": "",
+    "social_fancy": "",
+    "favicon": "shopify:\/\/shop_images\/VOB_ICON_RED_Large_a7c1f36a-9db5-4f76-bf22-34b74025953d.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/VOB_FULL_RED_Large_9d8b82d6-6328-4e42-8852-4f8c12a10867.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fafafa",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#d84641",
+    "checkout_button_color": "#00cc99",
+    "checkout_error_color": "#ff0000",
+    "social_google_plus": "",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "1565872153933": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "Všechna vína",
+              "image_1_heading": "",
+              "image_1_text": "",
+              "image_2_heading": "Your image",
+              "image_2_text": "Tell your story"
+            }
+          },
+          "1565872193908": {
+            "type": "mega_menu",
+            "settings": {
+              "menu_item": "Vinaři",
+              "image_1_heading": "Your image",
+              "image_1_text": "Tell your story",
+              "image_2_heading": "Your image",
+              "image_2_text": "Tell your story"
+            }
+          }
+        },
+        "block_order": [
+          "1565872153933",
+          "1565872193908"
+        ],
+        "settings": {
+          "enable_sticky_header": true,
+          "logo": "shopify:\/\/shop_images\/VOB_FULL_RED_Large_b91a9ca6-e4ef-48ca-866f-4b64aeeb0271.png",
+          "logo_max_width": 140,
+          "mobile_logo_max_width": 100,
+          "navigation_menu": "warehouse-main-navigation",
+          "desktop_navigation_layout": "inline",
+          "desktop_navigation_open_trigger": "click",
+          "show_navigation_social_media": true,
+          "navigation_phone_number": "Volejte +420 603 855 855",
+          "navigation_email": "filip@vinoodbodlaku.cz",
+          "show_condensed_search": false,
+          "show_search_filter": false,
+          "search_menu": "hledate-inspiraci",
+          "show_search_menu_title": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-1": {
+            "type": "links",
+            "settings": {
+              "menu": "info"
+            }
+          },
+          "1566562884823": {
+            "type": "links",
+            "settings": {
+              "menu": "oblibene-kategorie"
+            }
+          },
+          "1582035225905": {
+            "type": "links",
+            "settings": {
+              "menu": "podcast"
+            }
+          },
+          "footer-2": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter plný vína",
+              "subheading": "<p>Je dražší víno vždy lepší? To vám vysvětlí náš newsletter. A taky dostanete 10% slevu na příští nákup.<\/p><p>Zrušit odběr můžete kdykoliv.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-1",
+          "1566562884823",
+          "1582035225905",
+          "footer-2"
+        ],
+        "settings": {
+          "show_social_media": true,
+          "show_payment_icons": true,
+          "show_cookie_bar": true,
+          "text": "<p>Prohlížením a nakupováním v tomto obchodě vyjadřujete souhlas s naším používáním <a href=\"\/pages\/jak-pouzivame-cookies\" title=\"Jak používáme Cookies?\">souborů cookie<\/a>. <br\/>V tomto obchodě se prodává alkohol a proto tímto zároveň potvrzujete, že Vám již bylo 18 let.<\/p>",
+          "accept_button": "Souhlasím a bylo mi 18 let"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "show_collection_image": true,
+          "collapse_collection_description": true,
+          "collection_image_size": "small",
+          "products_per_row": "4",
+          "default_products_per_page": 36,
+          "default_view_layout": "grid",
+          "show_quick_buy": "list_grid",
+          "show_quick_view": "list",
+          "quick_links": "",
+          "quick_links_show_products_count": true,
+          "show_filters": true,
+          "show_filter_color_swatch": false,
+          "filter_type": "group",
+          "open_group_filters_mode": "all_open",
+          "filter_group_order": "Cena, Zbytkový cukr, Typ vína, Země původu, Výrobce, Typ zrání"
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "title": "Recently viewed"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_vendor": true,
+          "show_sku": true,
+          "show_share_buttons": false,
+          "show_taxes_included": false,
+          "selector_mode": "block",
+          "color_mode": "color",
+          "show_quantity_selector": true,
+          "show_payment_button": false,
+          "collapse_content": false,
+          "show_inventory_quantity": true,
+          "low_inventory_threshold": 6,
+          "image_size": "small",
+          "enable_image_zoom": true,
+          "zoom_effect": "outside",
+          "carousel_effect": "fade",
+          "tab_page_1_handle": "doprava",
+          "tab_page_2_handle": "osobni-odber",
+          "tab_page_3_handle": "",
+          "enable_reviews": true,
+          "show_reviews_badge": true,
+          "trust_title": "Platba & Bezpečnost",
+          "show_payment_icons": true,
+          "show_shipping_estimator": false,
+          "show_refunds_policy": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "Tip pro vás, co ještě ochutnat..."
+        }
+      },
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "show_announcement": true,
+          "background": "#ffffff",
+          "text_color": "#7c2825",
+          "text": "Kontakt",
+          "link": "shopify:\/\/pages\/kontakt",
+          "text2": "Doprava",
+          "link2": "shopify:\/\/pages\/doprava",
+          "text3": "Často se ptáte",
+          "link3": "shopify:\/\/pages\/caste-dotazy",
+          "text4": "O nás",
+          "link4": "shopify:\/\/pages\/o-nas",
+          "phone_text": "+420 604 256 545",
+          "phone_link": "+420604256545",
+          "mail_text": "filip@vinoodbodlaku.cz",
+          "mail_link": "filip@vinoodbodlaku.cz",
+          "show_newsletter": false,
+          "newsletter_button": "Co je to barikové víno?",
+          "newsletter_title": "Víno, které několik měsíců zraje v dubových sudech o objemu 225 litrů.",
+          "newsletter_content": "<p>Zajímá vás jak se víno vyrábí? Chcete vinaře poznat blíž?<br\/>Ano, je to newsletter. Nicméně děláme ho jinak.<br\/>Díky němu budete vínu <strong>rozumět líp<\/strong>. <br\/>(kdykoliv můžete odběr zrušit)<\/p>"
+        }
+      },
+      "1542984882560": {
+        "type": "blog-posts",
+        "settings": {
+          "blog": "wine-blog",
+          "title": "Píšeme o víně, srozumitelně",
+          "link_title": "Všechny články",
+          "show_category": false,
+          "show_author": false,
+          "show_date": true,
+          "show_excerpt": true,
+          "stack_mobile": true
+        }
+      },
+      "popups": {
+        "type": "popups",
+        "settings": {}
+      },
+      "text-with-icons": {
+        "type": "text-with-icons",
+        "blocks": {
+          "text-with-icons-0": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-fast-delivery",
+              "title": "Doprava ZDARMA",
+              "content": "<p>Při nákupu nad 1 200 Kč. To jsou dva kartony vína.<\/p>"
+            }
+          },
+          "text-with-icons-1": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-customer-support",
+              "title": "Online 24\/7. Osobně!",
+              "content": "<p>Odpověď dostanete přímo od Filipa. <a href=\"mailto:filip@vinoodbodlaku.cz\" title=\"mailto:filip@vinoodbodlaku.cz\">Napište mi<\/a>.<\/p>"
+            }
+          },
+          "text-with-icons-2": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-shop-pin",
+              "title": "Kamenný obchod v Poděbradech",
+              "content": "<p>100 % vín skladem. Osobní odběr zdarma.<\/p>"
+            }
+          },
+          "text-with-icons-3": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-secure-payment",
+              "title": "Umíme Apple Pay",
+              "content": "<p>Díky využití nejpokročilejší platební brány na světe – <a href=\"https:\/\/stripe.com\/en-sk\" title=\"https:\/\/stripe.com\/en-sk\">Stripe<\/a>.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "text-with-icons-0",
+          "text-with-icons-1",
+          "text-with-icons-2",
+          "text-with-icons-3"
+        ],
+        "settings": {
+          "show_section": true,
+          "stack_mobile": true
+        }
+      },
+      "1565865642624": {
+        "type": "offers",
+        "blocks": {
+          "1565865642624-0": {
+            "type": "offer",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/25_let_v2-Offers.jpg",
+              "title": "Jsme jeden z největších dodavatelů vína do restaurací v ČR.",
+              "content": "<p><a href=\"https:\/\/www.harmonia-vini.cz\/\" title=\"https:\/\/www.harmonia-vini.cz\/\">Více o naší firmě Harmonia Vini →<\/a><\/p>"
+            }
+          },
+          "1574686386146": {
+            "type": "offer",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/25_let-Offers_0da517ec-c1a0-4bf3-89a3-aea41e5a4217.jpg",
+              "title": "Radek Bodlák se v roce 1998 stal jedním z prvních certifikovaných sommelierů v ČR.",
+              "content": "<p><a href=\"\/pages\/o-rodine-bodlaku\" title=\"Příběh jedné rodiny milující víno\">Náš příběh →<\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1565865642624-0",
+          "1574686386146"
+        ],
+        "settings": {
+          "items_per_row": 2,
+          "stack_mobile": true
+        }
+      },
+      "1565866285870": {
+        "type": "logo-list",
+        "blocks": {
+          "1565866285870-2": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/EA_Hotels_Logo.png",
+              "link": "https:\/\/www.euroagentur.com\/cz\/"
+            }
+          },
+          "1565866285870-4": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Marriott_Logo.png",
+              "link": "https:\/\/www.marriott.com\/hotels\/travel\/prgdt-prague-marriott-hotel\/"
+            }
+          },
+          "1565866285870-0": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/OREA_Hotels_Logo.png",
+              "link": "https:\/\/www.orea.cz\/"
+            }
+          },
+          "1565866285870-1": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Infinit_Logo.png",
+              "link": "https:\/\/www.infinit.cz\/"
+            }
+          },
+          "1565866285870-3": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Cerveny_jelen_Logo.png",
+              "link": "https:\/\/cervenyjelen.cz\/"
+            }
+          },
+          "1570272437906": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Jezerka_Logo.png",
+              "link": "https:\/\/www.jezerka.cz\/"
+            }
+          }
+        },
+        "block_order": [
+          "1565866285870-2",
+          "1565866285870-4",
+          "1565866285870-0",
+          "1565866285870-1",
+          "1565866285870-3",
+          "1570272437906"
+        ],
+        "settings": {
+          "title": "Hotely a restaurace, které nám věří",
+          "link_title": ""
+        }
+      },
+      "static-promotion-list": {
+        "type": "static-promotion-list",
+        "settings": {
+          "expand_items": false,
+          "section_size": "small",
+          "stack_mobile": true
+        }
+      },
+      "static-recently-viewed-products": {
+        "type": "static-recently-viewed-products",
+        "settings": {
+          "show_section": true,
+          "title": "Nedávno prohlížené"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "articles_per_page": 12,
+          "highlight_first_article": true,
+          "show_tags": true,
+          "show_category": true,
+          "show_author": false,
+          "show_date": true,
+          "show_excerpt": false
+        }
+      },
+      "static-newsletter": {
+        "type": "static-newsletter",
+        "settings": {
+          "show_section": true,
+          "title": "Jaký je rozdíl mezi Rulandským šedým a Pinot Grigio?",
+          "content": "<p>To a mnohem v&iacute;c se dozv&iacute;te z na&scaron;eho newsletteru.<\/p>",
+          "subtext": "Odhlásit se můžete kdykoliv!",
+          "background": "#7c2825",
+          "text": "#ffffff"
+        }
+      },
+      "blog-sidebar": {
+        "type": "blog-sidebar",
+        "blocks": {
+          "blog-sidebar-0": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Nové články emailem",
+              "content": "<p>Co je to betonov&yacute; tank a jak&yacute; m&aacute; vliv na zr&aacute;n&iacute; v&iacute;na? To a mnohem v&iacute;ce&nbsp;v na&scaron;em newsletteru.<\/p>",
+              "subtext": "Kdykoliv se můžete odhlásit!",
+              "background": "#7c2825",
+              "text": "#ffffff"
+            }
+          },
+          "blog-sidebar-1": {
+            "type": "social_media",
+            "settings": {
+              "title": "Sledujte nás",
+              "show_rss": true
+            }
+          },
+          "1566321705966": {
+            "type": "featured_posts",
+            "settings": {
+              "title": "Populární články",
+              "show_ranking": true,
+              "show_category": true,
+              "show_date": true,
+              "article_1": "",
+              "article_2": "wine-blog\/jak-cist-etikety-italskych-vin",
+              "article_3": "",
+              "article_4": "",
+              "article_5": ""
+            }
+          },
+          "1566321748368": {
+            "type": "featured_products",
+            "settings": {
+              "title": "Doporučujeme",
+              "product_1": "connoisseur-l-esprit-du-large-domaine-haut-marin",
+              "product_2": "muscadet-sevre-maine-bougrier",
+              "product_3": "rulandske-modre-vyber-z-hroznu-rajhradske-klasterni"
+            }
+          }
+        },
+        "block_order": [
+          "blog-sidebar-0",
+          "blog-sidebar-1",
+          "1566321705966",
+          "1566321748368"
+        ],
+        "settings": {
+          "show_on_mobile": true
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1566291690531": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "1566291690531"
+        ],
+        "settings": {
+          "collections_to_show": "selected",
+          "show_collection_title": true,
+          "show_collection_overlay": true,
+          "collection_overlay_opacity": 20
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "show_category": true,
+          "show_author": true,
+          "show_date": true,
+          "show_share_buttons": true,
+          "show_tags": true,
+          "show_gravatar": true
+        }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "settings": {
+          "form_heading": "Leave your message",
+          "show_store_info": false,
+          "store_heading": "Find us",
+          "store_image": "",
+          "store_info": ""
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "blocks": {
+          "1582576536424": {
+            "type": "trust",
+            "settings": {
+              "icon": "bi-returns",
+              "title": "Máte strach z reklamace?",
+              "content": "<p>Víno je živý nápoj. Pokud se vám na vaší láhvi cokoliv nezdá, napište mi na <a href=\"mailto:filip@vinoodbodlaku.cz\" title=\"mailto:filip@vinoodbodlaku.cz\">filip@vinoodbodlaku.cz<\/a>. Hned najdeme řešení. <\/p>"
+            }
+          },
+          "1585555725278": {
+            "type": "trust",
+            "settings": {
+              "icon": "bi-delivery",
+              "title": "Víno cestou nerozbijeme",
+              "content": "<p>Náš kurýr s každou krabicí manipuluje ručně. Žádná automatická linka. Proto víno cestou nerozbijeme.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1582576536424",
+          "1585555725278"
+        ],
+        "settings": {
+          "enable_order_notes": true,
+          "show_payment_icons": true,
+          "gift_wrap_product": "",
+          "gift_wrap_text": "Objednáváte víno jako dárek? Přidejte věnování...",
+          "gift_wrap_button": "Napsat věnování",
+          "show_shipping_estimator": false,
+          "shipping_estimator_default_country": "Czech republic",
+          "trust_heading": "Naše garance",
+          "upsell_heading": "Ochutnejte naše novinky...",
+          "upsell_collection": "vsechna-vina",
+          "upsell_products_count": 4
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "page-faq-template-0": {
+            "type": "separator",
+            "settings": {
+              "title": "Doprava a doručení"
+            }
+          },
+          "page-faq-template-3": {
+            "type": "question",
+            "settings": {
+              "title": "Jaká je šance, že se víno cestou rozbije?",
+              "answer": "<p>Velmi malá. Pro <strong>Zásilkovnu<\/strong> a <strong>PPL<\/strong> používáme velmi pevné, certifikované pětivrstvé kartony. Sami jsme je několikrát úspěšně otestovali. Pokud si vyberete dopravce <strong>Messenger<\/strong>, zásilku vám pošleme v klasických kartonech, do kterých víno balí přímo naši vinaři. I to ale není vůbec žádný problém. Messenger totiž nepoužívá automatizovaná třídící zařízení a se všemi zásilkami manipuluje výhradně ručně.<\/p>"
+            }
+          },
+          "page-faq-template-2": {
+            "type": "question",
+            "settings": {
+              "title": "Za jak dlouho mi víno doručíte?",
+              "answer": "<p>Víme, že být doma bez vína není příjemné. Proto objednávky zasílané přes Zásilkovnu nebo PPL doručíme už následující pracovní den. Jen nám nezapomeňte svou objednávku poslat <strong>do 14:30<\/strong> a v pokladně zvolit <strong>Zásilkovnu<\/strong> a nebo <strong>PPL<\/strong>.<\/p><p><strong>Zásilkovna<\/strong>: 1 - 2 pracovní dny<br\/><strong>PPL<\/strong>: 1 - 2 pracovní dny<br\/><strong>Messenger<\/strong>: 3 - 5 pracovních dní<\/p>"
+            }
+          },
+          "5ce91be2-7a96-437a-b391-7855129ba5d6": {
+            "type": "question",
+            "settings": {
+              "title": "Kolik mě doprava bude stát?",
+              "answer": "<p>Přepravovat víno je komplikované a velice nákladné. Vše hlavně kvůli tomu, <strong>abychom víno cestou k vám nerozbili<\/strong>. Proto cenu dopravy vždy počítáme až přímo v pokladně podle toho jaká vína máte v košíku.<\/p><p><strong>Ve zkratce<\/strong>: podle toho, jaká vína máte v košíku odhadneme v kolika krabicích vám víno budeme posílat a podle toho cenu vypočítáme.<\/p><p><strong>Zásilkovna<\/strong>: od 119 Kč<br\/><strong>PPL<\/strong>: od 149 Kč<br\/><strong>Messenger<\/strong>: od 119 Kč (zdarma od 1 800 Kč)<\/p>"
+            }
+          },
+          "aa66ddde-5a33-47a5-8be4-9104984c693c": {
+            "type": "question",
+            "settings": {
+              "title": "Nabízíte dopravu zdarma?",
+              "answer": "<p>Ano! Stačí objednat minimálně za 1 800 Kč. Dopravu Messengerem pak máte zdarma po celé ČR.<\/p>"
+            }
+          },
+          "page-faq-template-1": {
+            "type": "question",
+            "settings": {
+              "title": "Odesíláte víno i do zahraničí?",
+              "answer": "<p>Zatím ne. Brzy ale budeme.<\/p>"
+            }
+          },
+          "8a238832-f9a0-4219-b4c4-c256d3106cc1": {
+            "type": "question",
+            "settings": {
+              "title": "Pořád mi to není jasné...",
+              "answer": "<p><a title=\"Doprava\" href=\"\/pages\/doprava\" target=\"_blank\">Přečtěte si detailní informace o tom, jak u nás doprava funguje<\/a>.<\/p>"
+            }
+          },
+          "page-faq-template-4": {
+            "type": "separator",
+            "settings": {
+              "title": "Zboží"
+            }
+          },
+          "page-faq-template-5": {
+            "type": "question",
+            "settings": {
+              "title": "Mohu víno vrátit?",
+              "answer": "<p>Ano! Děláme vše pro to, abyste víno vracet nemuseli. Nicméně vždy máte 30 dní na vrácení vína bez udání důvodu. Napište nám na <a title=\"mailto:filip@vinoodbodlaku.cz\" href=\"mailto:filip@vinoodbodlaku.cz\">filip@vinoodbodlaku.cz<\/a><\/p>"
+            }
+          },
+          "page-faq-template-6": {
+            "type": "question",
+            "settings": {
+              "title": "Co dělat pokud chci víno zabalit dárkově?",
+              "answer": "<p>V tuto chvíli to ještě neumíme, ale pracujeme na tom. Dejte nám prosím ještě čas.<\/p>"
+            }
+          },
+          "1566569250210": {
+            "type": "separator",
+            "settings": {
+              "title": "Velkoobchod"
+            }
+          },
+          "1566569257291": {
+            "type": "question",
+            "settings": {
+              "title": "Mám restauraci a hledám dodavatele",
+              "answer": "<p>Perfektní! Na tohle jsme specialisté! Víno do restaurací a hotelů dodáváme od roku 2003. Napište nám na <a title=\"mailto:filip@vinoodbodlaku.cz\" href=\"mailto:filip@vinoodbodlaku.cz\">filip@vinoodbodlaku.cz<\/a> a nebo rovnou volejte ‭+420 603 263 514‬.<\/p><p>Mezi naše partnery patří hotel <a title=\"https:\/\/www.marriott.com\/hotels\/travel\/prgdt-prague-marriott-hotel\/\" href=\"https:\/\/www.marriott.com\/hotels\/travel\/prgdt-prague-marriott-hotel\/\" target=\"_blank\">Marriott<\/a> v Praze 1, <a title=\"https:\/\/www.orea.cz\/\" href=\"https:\/\/www.orea.cz\/\" target=\"_blank\">OREA hotely<\/a> po celé ČR, <a title=\"https:\/\/www.euroagentur.com\/cz\/\" href=\"https:\/\/www.euroagentur.com\/cz\/\" target=\"_blank\">Euroagentur hotely<\/a>, kongresový hotel <a title=\"https:\/\/www.jezerka.cz\/\" href=\"https:\/\/www.jezerka.cz\/\" target=\"_blank\">Jezerka<\/a> a nebo unikátní restaurace <a title=\"https:\/\/www.cervenyjelen.cz\/\" href=\"https:\/\/www.cervenyjelen.cz\/\" target=\"_blank\">Červený jelen<\/a>.<\/p>"
+            }
+          },
+          "2d3abf13-5269-4a56-ad58-59bc7f6363d6": {
+            "type": "question",
+            "settings": {
+              "title": "Mám firmu a chci nakoupit víno pro své klienty",
+              "answer": "<p>Moc rádi vám s tím pomůžeme. Napište nám na <a title=\"mailto:filip@vinoodbodlaku.cz\" href=\"mailto:filip@vinoodbodlaku.cz\">filip@vinoodbodlaku.cz<\/a>. Dáme pro vás dohromady individuální nabídku přesně podle vašich požadavků. Nabídneme vám také speciální cenu.<\/p>"
+            }
+          },
+          "20537f49-1337-4456-aabf-5e1d72a6f794": {
+            "type": "question",
+            "settings": {
+              "title": "Vyrobíte mi etiketu s logem naší firmy?",
+              "answer": "<p>Ano! Stačí si vybrat cokoliv z nabídky vín <a title=\"Rodinné vinařství Sedlák\" href=\"\/collections\/rodinne-vinarstvi-sedlak\" target=\"_blank\">vinařství Sedlák<\/a>. Pokud preferujete jiného vinaře, vyrobíme vám speciální a vkusné visačky na míru. Pro přípravu těchto etiket potřebujeme <strong>21 dní<\/strong>.<\/p>"
+            }
+          },
+          "page-faq-template-7": {
+            "type": "separator",
+            "settings": {
+              "title": "Ostatní"
+            }
+          },
+          "page-faq-template-8": {
+            "type": "question",
+            "settings": {
+              "title": "Další otázky?",
+              "answer": "<p>Pokud jste nenašli odpověď, můžete nás kontaktovat přes kontaktní formulář <a href=\"\/pages\/kontakt\" title=\"Napište nám\">tady<\/a>.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "page-faq-template-0",
+          "page-faq-template-3",
+          "page-faq-template-2",
+          "5ce91be2-7a96-437a-b391-7855129ba5d6",
+          "aa66ddde-5a33-47a5-8be4-9104984c693c",
+          "page-faq-template-1",
+          "8a238832-f9a0-4219-b4c4-c256d3106cc1",
+          "page-faq-template-4",
+          "page-faq-template-5",
+          "page-faq-template-6",
+          "1566569250210",
+          "1566569257291",
+          "2d3abf13-5269-4a56-ad58-59bc7f6363d6",
+          "20537f49-1337-4456-aabf-5e1d72a6f794",
+          "page-faq-template-7",
+          "page-faq-template-8"
+        ],
+        "settings": {
+          "show_contact_info": true,
+          "contact_info_heading": "Nenašli jste odpověď?",
+          "contact_info_text": "<p>Kontaktujte nás přes kontaktní formulář <a href=\"\/pages\/kontakt\" title=\"Napište nám\">tady<\/a> a nebo napřímo na kontaktech níže.<\/p>",
+          "contact_1_icon": "bi-phone",
+          "contact_1_heading": "Volejte +420 603 855 855",
+          "contact_1_text": "<p>Od pondělí do pátku do 15:30<\/p>",
+          "contact_2_icon": "bi-email",
+          "contact_2_heading": "Napište Filipovi",
+          "contact_2_text": "<p>filip@vinoodbodlaku.cz<\/p>"
+        }
+      },
+      "page-team-template": {
+        "type": "page-team-template",
+        "blocks": {
+          "page-team-template-0": {
+            "type": "separator",
+            "settings": {
+              "title": "A všichni Bodláci"
+            }
+          },
+          "page-team-template-1": {
+            "type": "member",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_7842-3.jpg",
+              "title": "Radek",
+              "subheading": "to celé od roku 2002 budoval...",
+              "link": "mailto:r.bodlak@harmonia-vini.cz"
+            }
+          },
+          "page-team-template-2": {
+            "type": "member",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/20190626-IMG_7247_472236bb-b749-44ef-a94e-7b44dde7f9f7.jpg",
+              "title": "Jitka",
+              "subheading": "...společně s Jitkou",
+              "link": "mailto:j.bodlakova@harmonia-vini.cz"
+            }
+          },
+          "1572363708953": {
+            "type": "member",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_7842-2_c90e5acf-7f97-4b99-91aa-1289fcf6be38.jpg",
+              "title": "Filip",
+              "subheading": "se full-time přidal v roce 2019",
+              "link": "mailto:filip@vinoodbodlaku.cz"
+            }
+          }
+        },
+        "block_order": [
+          "page-team-template-0",
+          "page-team-template-1",
+          "page-team-template-2",
+          "1572363708953"
+        ],
+        "settings": {
+          "image": "",
+          "image_edge_to_edge": false,
+          "show_image_overlay": false,
+          "color": "#ffffff",
+          "round_image": true
+        }
+      },
+      "1575664548028": {
+        "type": "promotion-list",
+        "blocks": {
+          "1575664548028-1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Promotion_Blocks_1.jpg",
+              "show_overlay": false,
+              "overlay_opacity": 40,
+              "stretch_image": true,
+              "background": "#e1e3e4",
+              "text_color": "#ffffff",
+              "title": "Litrovka bez kompromisů",
+              "content": "",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#e1e3e4",
+              "button_text": "",
+              "button_link": "shopify:\/\/collections\/litrovky"
+            }
+          },
+          "1575664548028-0": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Hledam_vino-Promo_block_1.jpg",
+              "show_overlay": true,
+              "overlay_opacity": 5,
+              "stretch_image": true,
+              "background": "#e1e3e4",
+              "text_color": "#ffffff",
+              "title": "Chci si vybrat víno...",
+              "content": "",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#e1e3e4",
+              "button_text": "",
+              "button_link": "shopify:\/\/collections\/vsechna-vina"
+            }
+          },
+          "58049347-2d69-4a6e-a5a9-fdbfa4b2d42b": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Promotion_Blocks_800x800_5.png",
+              "show_overlay": false,
+              "overlay_opacity": 50,
+              "stretch_image": false,
+              "background": "#d84641",
+              "text_color": "#ffffff",
+              "title": "Dnes objednejte, zítra vychutnávejte!",
+              "content": "",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#d84641",
+              "button_text": "Potřebuju víno",
+              "button_link": "shopify:\/\/collections\/expresni-doruceni-druhy-pracovni-den"
+            }
+          }
+        },
+        "block_order": [
+          "1575664548028-1",
+          "1575664548028-0",
+          "58049347-2d69-4a6e-a5a9-fdbfa4b2d42b"
+        ],
+        "settings": {
+          "expand_items": false,
+          "section_size": "small",
+          "stack_mobile": true
+        }
+      },
+      "1581076303004": {
+        "type": "video",
+        "blocks": {
+          "32694f85-c858-4b1f-ad0a-3467cb7d7185": {
+            "type": "video",
+            "settings": {
+              "video_url": "https:\/\/youtu.be\/Z8z57xLE3Tk"
+            }
+          },
+          "1588981212897": {
+            "type": "video",
+            "settings": {
+              "video_url": "https:\/\/youtu.be\/eGPWmSFdVxw"
+            }
+          },
+          "1584114244580": {
+            "type": "video",
+            "settings": {
+              "video_url": "https:\/\/www.youtube.com\/watch?v=2R6tUViRVAM"
+            }
+          },
+          "1581689094563": {
+            "type": "video",
+            "settings": {
+              "video_url": "https:\/\/youtu.be\/H8iEv0d_3d0"
+            }
+          }
+        },
+        "block_order": [
+          "32694f85-c858-4b1f-ad0a-3467cb7d7185",
+          "1588981212897",
+          "1584114244580",
+          "1581689094563"
+        ],
+        "settings": {
+          "title": "Chcete se ve víně lépe orientovat? Odpovědi najdete v našem podcastu!",
+          "autoplay_on_select": false
+        }
+      },
+      "1585229854807": {
+        "type": "offers",
+        "blocks": {
+          "1585229854807-0": {
+            "type": "offer",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Opakovany_nakup.jpg",
+              "title": "Stejný nákup jako minule?",
+              "content": "<p>Přihlaste se a zopakujte poslední objednávku na pár kliků.<br\/><a href=\"https:\/\/harmonia-vini-store.myshopify.com\/account\/login\" title=\"https:\/\/harmonia-vini-store.myshopify.com\/account\/login\">Přihlásit se →<\/a><\/p>"
+            }
+          },
+          "1585229854807-1": {
+            "type": "offer",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Promotion_Blocks_3.png",
+              "title": "Doručujeme na Slovensko",
+              "content": "<p>V pokladně stačí zadat vaši slovenskou adresu a my vám nabídneme <strong>Zásilkovnu<\/strong> a nebo <strong>GLS<\/strong>.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1585229854807-0",
+          "1585229854807-1"
+        ],
+        "settings": {
+          "items_per_row": 2,
+          "stack_mobile": true
+        }
+      },
+      "1588697570441": {
+        "type": "quick-links",
+        "blocks": {
+          "1588697570441-0": {
+            "type": "link",
+            "settings": {
+              "title": "Doprava pouze za 89 Kč",
+              "link": "shopify:\/\/pages\/doprava"
+            }
+          },
+          "1588697570441-1": {
+            "type": "link",
+            "settings": {
+              "title": "Online 24\/7. Osobně!",
+              "link": "shopify:\/\/pages\/kontakt"
+            }
+          },
+          "1588697570441-2": {
+            "type": "link",
+            "settings": {
+              "title": "Kamenný obchod",
+              "link": "shopify:\/\/pages\/osobni-odber"
+            }
+          },
+          "1588697570441-3": {
+            "type": "link",
+            "settings": {
+              "title": "Zaplaťte s Apple Pay"
+            }
+          },
+          "da25a9e2-45dc-4150-a6c5-7c616a3f043d": {
+            "type": "link",
+            "settings": {
+              "title": "Your link"
+            }
+          }
+        },
+        "block_order": [
+          "1588697570441-0",
+          "1588697570441-1",
+          "1588697570441-2",
+          "1588697570441-3",
+          "da25a9e2-45dc-4150-a6c5-7c616a3f043d"
+        ],
+        "settings": {
+          "title": "",
+          "expand_items": true,
+          "show_desktop": true,
+          "link_title": ""
+        }
+      },
+      "1588980745166": {
+        "type": "maestrooo-instagram",
+        "settings": {
+          "title": "Poznejte nás!",
+          "subheading": "",
+          "button_text": "",
+          "layout": "collage",
+          "image_size": "medium",
+          "full_width": false,
+          "add_spacing": true,
+          "rows_count": 2,
+          "show_author": true,
+          "show_caption": true,
+          "show_date": true,
+          "click_action": "open_instagram",
+          "heading_color": "#7c2825",
+          "subheading_color": "#000000",
+          "button_background": "#000000",
+          "button_color": "#ffffff",
+          "overlay_color": "#7c2825",
+          "overlay_text_color": "#ffffff",
+          "overlay_opacity": 80
+        }
+      },
+      "1603483625c60dcad3": {
+        "type": "collection-list",
+        "blocks": {
+          "1603483625c60dcad3-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "rodinne-vinarstvi-sedlak",
+              "image": "shopify:\/\/shop_images\/1_1.jpg"
+            }
+          },
+          "1603483625c60dcad3-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "vini-tonon",
+              "image": "shopify:\/\/shop_images\/6.jpg"
+            }
+          },
+          "1603483625c60dcad3-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "josef-dufek",
+              "image": "shopify:\/\/shop_images\/3_80d13513-cbba-423f-8f3b-d2880fc8eea6.jpg"
+            }
+          },
+          "1603483625c60dcad3-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "tenuta-di-corte-giacobbe",
+              "image": "shopify:\/\/shop_images\/5.jpg"
+            }
+          },
+          "1603483625c60dcad3-4": {
+            "type": "collection",
+            "settings": {
+              "collection": "harmonia-vini-selection",
+              "image": "shopify:\/\/shop_images\/2_1.jpg"
+            }
+          },
+          "1603483625c60dcad3-5": {
+            "type": "collection",
+            "settings": {
+              "collection": "capitania",
+              "image": "shopify:\/\/shop_images\/4.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1603483625c60dcad3-0",
+          "1603483625c60dcad3-1",
+          "1603483625c60dcad3-2",
+          "1603483625c60dcad3-3",
+          "1603483625c60dcad3-4",
+          "1603483625c60dcad3-5"
+        ],
+        "settings": {
+          "title": "Vaši nejoblíbenější vinaři",
+          "link_title": "",
+          "link": "shopify:\/\/collections",
+          "round_images": true,
+          "show_collection_title": true
+        }
+      },
+      "1603904018e3647a4e": {
+        "type": "promotion-list",
+        "blocks": {
+          "1603904018e3647a4e-1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Promotion_Blocks_800x800_3_1.png",
+              "show_overlay": false,
+              "overlay_opacity": 50,
+              "stretch_image": false,
+              "background": "#e1e3e4",
+              "text_color": "#d84641",
+              "title": "Vaše nejoblíbenější vína",
+              "content": "Nevíte co si vybrat? Nechte se inspirovat tím, co mají ostatní nejradši...",
+              "content_position": "top_left",
+              "button_background": "#d84641",
+              "button_text_color": "#ffffff",
+              "button_text": "Objevovat",
+              "button_link": "https:\/\/vinoodbodlaku.cz\/collections\/nase-bestsellery?utm_medium=homepage&utm_source=promotion_block&utm_content=bamberger"
+            }
+          },
+          "1603904018e3647a4e-0": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2_1.png",
+              "show_overlay": false,
+              "overlay_opacity": 50,
+              "stretch_image": false,
+              "background": "#d84641",
+              "text_color": "#ffffff",
+              "title": "Nechte si doporučit od Luboše Bárty...",
+              "content": "...experta na víno \nsvětového významu",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#d84641",
+              "button_text": "Chci poradit",
+              "button_link": "https:\/\/vinoodbodlaku.cz\/collections\/tipy-na-vino-lubos-barta?utm_medium=homepage&utm_source=promotion_block&utm_content=barta"
+            }
+          },
+          "1603904018e3647a4e-2": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Promotion_Blocks_800x800_1_1.png",
+              "show_overlay": false,
+              "overlay_opacity": 50,
+              "stretch_image": false,
+              "background": "#e1e3e4",
+              "text_color": "#d84641",
+              "title": "Nealkoholické víno",
+              "content": "Jste maminka? A milujete víno?\nTohle je pro vás!",
+              "content_position": "top_left",
+              "button_background": "#d84641",
+              "button_text_color": "#ffffff",
+              "button_text": "Nealko víno",
+              "button_link": "https:\/\/vinoodbodlaku.cz\/collections\/nealkoholicke-vino?utm_medium=homepage&utm_source=promotion_block&utm_content=nealko"
+            }
+          }
+        },
+        "block_order": [
+          "1603904018e3647a4e-1",
+          "1603904018e3647a4e-0",
+          "1603904018e3647a4e-2"
+        ],
+        "settings": {
+          "expand_items": false,
+          "section_size": "medium",
+          "stack_mobile": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1575664548028",
+      "1585229854807",
+      "1588697570441",
+      "1603483625c60dcad3",
+      "1565865642624",
+      "1603904018e3647a4e",
+      "1565866285870",
+      "1542984882560",
+      "1581076303004",
+      "1588980745166"
+    ]
+  },
+  "presets": {
+    "Metal": {
+      "heading_color": "#1e2d7d",
+      "text_color": "#677279",
+      "accent_color": "#00badb",
+      "link_color": "#00badb",
+      "border_color": "#e1e3e4",
+      "background": "#f3f5f6",
+      "secondary_background": "#ffffff",
+      "error_color": "#ff0000",
+      "success_color": "#00aa00",
+      "primary_button_background": "#00badb",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#1e2d7d",
+      "secondary_button_text_color": "#ffffff",
+      "header_background": "#1e2d7d",
+      "header_text_color": "#ffffff",
+      "header_light_text_color": "#a3afef",
+      "product_on_sale_accent": "#ee0000",
+      "product_in_stock_color": "#008a00",
+      "product_low_stock_color": "#ee0000",
+      "product_sold_out_color": "#8a9297",
+      "product_label_1_background": "#008a00",
+      "product_label_2_background": "#00a500",
+      "product_star_color": "#ffbd00",
+      "base_text_font_size": 16,
+      "heading_font": "din_next_n5",
+      "text_font": "din_next_n4",
+      "underline_links": true,
+      "animation_image_zoom": true,
+      "currency_conversion_enabled": false,
+      "currency_conversion_round_amounts": false,
+      "currency_conversion_supported_currencies": "USD CAD EUR GBP",
+      "currency_conversion_money_format": "money_format",
+      "search_mode": "product,article",
+      "show_vendor": true,
+      "show_secondary_image": true,
+      "product_price_position": "after_title",
+      "product_image_size": "natural",
+      "show_discount": true,
+      "discount_mode": "saving",
+      "show_color_swatch": false,
+      "show_inventory_quantity": false,
+      "low_inventory_threshold": 0,
+      "show_reviews_badge": false,
+      "cart_type": "drawer",
+      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "share_image": "",
+      "social_facebook": "",
+      "social_twitter": "",
+      "social_google_plus": "",
+      "social_pinterest": "",
+      "social_instagram": "",
+      "social_vimeo": "",
+      "social_tumblr": "",
+      "social_youtube": "",
+      "social_linkedin": "",
+      "social_snapchat": "",
+      "social_fancy": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#00badb",
+      "checkout_button_color": "#00badb",
+      "checkout_error_color": "#ff0000",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": 140,
+            "mobile_logo_max_width": 100,
+            "navigation_menu": "main-menu",
+            "desktop_navigation_layout": "inline",
+            "desktop_navigation_open_trigger": "hover",
+            "navigation_phone_number": "Call us 000-000-0000",
+            "navigation_email": "info@yourwebsite.com",
+            "search_menu": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1"
+          ],
+          "settings": {
+            "edge_to_edge": false,
+            "section_size": "preserve_ratio",
+            "cycle_speed": 5
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-5": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-0",
+            "collection-1",
+            "collection-2",
+            "collection-3",
+            "collection-4",
+            "collection-5"
+          ],
+          "settings": {
+            "title": "Our collections",
+            "link_title": "View all",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "featured-product": {
+          "type": "featured-product",
+          "settings": {
+            "product": "",
+            "title": "Featured product",
+            "selector_mode": "block",
+            "color_mode": "color",
+            "low_inventory_threshold": 0,
+            "zoom_effect": "outside",
+            "carousel_effect": "fade"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_size": "small",
+            "default_view_layout": "grid",
+            "show_quick_view": "list",
+            "show_quick_buy": "list",
+            "quick_links": "",
+            "filter_type": "tag"
+          }
+        },
+        "recently-viewed-products": {
+          "type": "recently-viewed-products",
+          "settings": {
+            "title": "Recently viewed"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "low_inventory_threshold": 0,
+            "zoom_effect": "outside",
+            "carousel_effect": "fade",
+            "tab_page_1_handle": "",
+            "tab_page_2_handle": "",
+            "tab_page_3_handle": "",
+            "custom_security_badge": ""
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {}
+        },
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "settings": {
+            "background": "#1e2d7d",
+            "text_color": "#ffffff",
+            "text": "Announce something here",
+            "link": "",
+            "newsletter_button": "Subscribe & Save",
+            "newsletter_title": "Newsletter",
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984811767": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "",
+            "title": "Featured collection",
+            "products_count": 12,
+            "layout": "vertical",
+            "link_title": "View all"
+          }
+        },
+        "1542984842027": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984882560": {
+          "type": "blog-posts",
+          "settings": {
+            "blog": "news",
+            "title": "Blog posts"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "1542984811767",
+        "collection-list",
+        "1542984842027",
+        "featured-product",
+        "1542984882560"
+      ]
+    },
+    "Wood": {
+      "heading_color": "#3a2a2f",
+      "text_color": "#3a2a2f",
+      "accent_color": "#ff6128",
+      "link_color": "#ff6128",
+      "border_color": "#e7e2de",
+      "background": "#f7f4f2",
+      "secondary_background": "#ffffff",
+      "error_color": "#f71b1b",
+      "success_color": "#48b448",
+      "primary_button_background": "#ff6128",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#3a2a2f",
+      "secondary_button_text_color": "#ffffff",
+      "header_background": "#3a2a2f",
+      "header_text_color": "#ffffff",
+      "header_light_text_color": "#e9e2dd",
+      "product_on_sale_accent": "#ee0000",
+      "product_in_stock_color": "#008a00",
+      "product_low_stock_color": "#ee0000",
+      "product_sold_out_color": "#d1d1d4",
+      "product_label_1_background": "#ff6128",
+      "product_label_2_background": "#a95ebe",
+      "product_star_color": "#ffb647",
+      "base_text_font_size": 15,
+      "heading_font": "itc_avant_garde_gothic_n5",
+      "text_font": "basic_commercial_n4",
+      "underline_links": true,
+      "animation_image_zoom": true,
+      "currency_conversion_enabled": false,
+      "currency_conversion_round_amounts": false,
+      "currency_conversion_supported_currencies": "USD CAD EUR GBP",
+      "currency_conversion_money_format": "money_format",
+      "search_mode": "product,article,page",
+      "show_vendor": true,
+      "show_secondary_image": true,
+      "show_discount": true,
+      "discount_mode": "percentage",
+      "product_price_position": "after_title",
+      "product_image_size": "square",
+      "show_color_swatch": false,
+      "show_inventory_quantity": true,
+      "low_inventory_threshold": 1,
+      "show_reviews_badge": false,
+      "cart_type": "drawer",
+      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_show_free_shipping_threshold": true,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#f7f4f2",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#ff6128",
+      "checkout_button_color": "#ff6128",
+      "checkout_error_color": "#f71b1b",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": 140,
+            "mobile_logo_max_width": 100,
+            "navigation_menu": "main-menu",
+            "desktop_navigation_layout": "inline",
+            "desktop_navigation_open_trigger": "hover",
+            "navigation_phone_number": "Call us 000-000-0000",
+            "navigation_email": "info@yourwebsite.com",
+            "search_menu": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1"
+          ],
+          "settings": {
+            "edge_to_edge": false,
+            "section_size": "preserve_ratio",
+            "cycle_speed": 5
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-5": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-0",
+            "collection-1",
+            "collection-2",
+            "collection-3",
+            "collection-4",
+            "collection-5"
+          ],
+          "settings": {
+            "title": "Our collections",
+            "link_title": "View all",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_size": "small",
+            "default_view_layout": "grid",
+            "show_quick_view": "list",
+            "show_quick_buy": "list",
+            "quick_links": "",
+            "filter_type": "tag"
+          }
+        },
+        "recently-viewed-products": {
+          "type": "recently-viewed-products",
+          "settings": {
+            "title": "Recently viewed"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "low_inventory_threshold": 0,
+            "zoom_effect": "outside",
+            "carousel_effect": "fade",
+            "tab_page_1_handle": "",
+            "tab_page_2_handle": "",
+            "tab_page_3_handle": "",
+            "custom_security_badge": ""
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {}
+        },
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "settings": {
+            "background": "#3a2a2f",
+            "text_color": "#ffffff",
+            "text": "Announce something here",
+            "link": "",
+            "newsletter_button": "Subscribe & Save",
+            "newsletter_title": "Newsletter",
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984811767": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "",
+            "title": "Featured collection",
+            "products_count": 12,
+            "layout": "vertical",
+            "link_title": "View all"
+          }
+        },
+        "1550833441117": {
+          "type": "collection-with-image",
+          "settings": {
+            "collection": "",
+            "products_count": 12,
+            "image": "",
+            "background": "#3a2a2f",
+            "text_color": "#ffffff",
+            "title": "Our best sellers",
+            "content": "Shop our most popular products for this season.",
+            "button_background": "#e95d2b",
+            "button_text_color": "#ffffff",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "1555314133560": {
+          "type": "promotion-list",
+          "blocks": {
+            "1555314133560-0": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#6f42ef",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#6f42ef",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            },
+            "1555314133560-1": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#fc2a68",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#fc2a68",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            },
+            "1555314133560-2": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#26c1ce",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#26c1ce",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1555314133560-0",
+            "1555314133560-1",
+            "1555314133560-2"
+          ],
+          "settings": {
+            "expand_items": false,
+            "section_size": "medium",
+            "stack_mobile": false
+          }
+        },
+        "1542984882560": {
+          "type": "blog-posts",
+          "settings": {
+            "blog": "news",
+            "title": "Blog posts"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "1542984811767",
+        "1555314133560",
+        "collection-list",
+        "1550833441117",
+        "1542984882560"
+      ]
+    }
+  }
+}

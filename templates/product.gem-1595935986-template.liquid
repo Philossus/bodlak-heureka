@@ -1,0 +1,20 @@
+{% include 'shogun-products', content: product %}
+{{product.metafields.shogun.above}}
+{%- comment -%}
+If the product contains the special __gift tag, we prevent it to be completely accessible by redirecting to the home page
+{%- endcomment -%}
+
+{%- if product.tags contains '__gift' -%}
+  <script>
+    window.location.href = '/';
+  </script>
+{%- else -%}
+  {% section 'product-template' %}
+  {% section 'product-recommendations' %}
+  {% section 'static-promotion-list' %}
+  {% section 'static-recently-viewed-products' %}
+{% render 'junip-product-review', product: product %}
+{%- endif -%}
+
+{{product.metafields.shogun.below}}
+
