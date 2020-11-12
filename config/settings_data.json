@@ -145,7 +145,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Newsletter plný vína",
-              "subheading": "<p>Je dražší víno vždy lepší? To vám vysvětlí náš newsletter. A taky dostanete 10% slevu na příští nákup.<\/p><p>Zrušit odběr můžete kdykoliv.<\/p>"
+              "subheading": "<p>Je dražší víno vždy lepší? To vám vysvětlí náš newsletter. A taky dostanete 10% slevu na příští nákup.<\/p><p>Zrušit odběr můžete kdykoliv.<\/p>"
             }
           }
         },
@@ -159,7 +159,7 @@
           "show_social_media": true,
           "show_payment_icons": true,
           "show_cookie_bar": true,
-          "text": "<p>Prohlížením a nakupováním v tomto obchodě vyjadřujete souhlas s naším používáním <a href=\"\/pages\/jak-pouzivame-cookies\" title=\"Jak používáme Cookies?\">souborů cookie<\/a>. <br\/>V tomto obchodě se prodává alkohol a proto tímto zároveň potvrzujete, že Vám již bylo 18 let.<\/p>",
+          "text": "<p>Prohlížením a nakupováním v tomto obchodě vyjadřujete souhlas s naším používáním <a href=\"\/pages\/jak-pouzivame-cookies\" title=\"Jak používáme Cookies?\">souborů cookie<\/a>. <br\/>V tomto obchodě se prodává alkohol a proto tímto zároveň potvrzujete, že Vám již bylo 18 let.<\/p>",
           "accept_button": "Souhlasím a bylo mi 18 let"
         }
       },
@@ -246,7 +246,7 @@
           "show_newsletter": false,
           "newsletter_button": "Co je to barikové víno?",
           "newsletter_title": "Víno, které několik měsíců zraje v dubových sudech o objemu 225 litrů.",
-          "newsletter_content": "<p>Zajímá vás jak se víno vyrábí? Chcete vinaře poznat blíž?<br\/>Ano, je to newsletter. Nicméně děláme ho jinak.<br\/>Díky němu budete vínu <strong>rozumět líp<\/strong>. <br\/>(kdykoliv můžete odběr zrušit)<\/p>"
+          "newsletter_content": "<p>Zajímá vás jak se víno vyrábí? Chcete vinaře poznat blíž?<br\/>Ano, je to newsletter. Nicméně děláme ho jinak.<br\/>Díky němu budete vínu <strong>rozumět líp<\/strong>. <br\/>(kdykoliv můžete odběr zrušit)<\/p>"
         }
       },
       "1542984882560": {
@@ -264,7 +264,8 @@
       },
       "popups": {
         "type": "popups",
-        "settings": {}
+        "settings": {
+        }
       },
       "text-with-icons": {
         "type": "text-with-icons",
@@ -274,7 +275,7 @@
             "settings": {
               "icon": "bi-fast-delivery",
               "title": "Doprava ZDARMA",
-              "content": "<p>Při nákupu nad 1 200 Kč. To jsou dva kartony vína.<\/p>"
+              "content": "<p>Při nákupu nad 1 200 Kč. To jsou dva kartony vína.<\/p>"
             }
           },
           "text-with-icons-1": {
@@ -321,7 +322,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/25_let_v2-Offers.jpg",
               "title": "Jsme jeden z největších dodavatelů vína do restaurací v ČR.",
-              "content": "<p><a href=\"https:\/\/www.harmonia-vini.cz\/\" title=\"https:\/\/www.harmonia-vini.cz\/\">Více o naší firmě Harmonia Vini →<\/a><\/p>"
+              "content": "<p><a href=\"https:\/\/www.harmonia-vini.cz\/\" title=\"https:\/\/www.harmonia-vini.cz\/\">Více o naší firmě Harmonia Vini →<\/a><\/p>"
             }
           },
           "1574686386146": {
@@ -329,7 +330,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/25_let-Offers_0da517ec-c1a0-4bf3-89a3-aea41e5a4217.jpg",
               "title": "Radek Bodlák se v roce 1998 stal jedním z prvních certifikovaných sommelierů v ČR.",
-              "content": "<p><a href=\"\/pages\/o-rodine-bodlaku\" title=\"Příběh jedné rodiny milující víno\">Náš příběh →<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/o-rodine-bodlaku\" title=\"Příběh jedné rodiny milující víno\">Náš příběh →<\/a><\/p>"
             }
           }
         },
@@ -542,7 +543,7 @@
             "settings": {
               "icon": "bi-returns",
               "title": "Máte strach z reklamace?",
-              "content": "<p>Víno je živý nápoj. Pokud se vám na vaší láhvi cokoliv nezdá, napište mi na <a href=\"mailto:filip@vinoodbodlaku.cz\" title=\"mailto:filip@vinoodbodlaku.cz\">filip@vinoodbodlaku.cz<\/a>. Hned najdeme řešení. <\/p>"
+              "content": "<p>Víno je živý nápoj. Pokud se vám na vaší láhvi cokoliv nezdá, napište mi na <a href=\"mailto:filip@vinoodbodlaku.cz\" title=\"mailto:filip@vinoodbodlaku.cz\">filip@vinoodbodlaku.cz<\/a>. Hned najdeme řešení. <\/p>"
             }
           },
           "1585555725278": {
@@ -705,7 +706,7 @@
         "settings": {
           "show_contact_info": true,
           "contact_info_heading": "Nenašli jste odpověď?",
-          "contact_info_text": "<p>Kontaktujte nás přes kontaktní formulář <a href=\"\/pages\/kontakt\" title=\"Napište nám\">tady<\/a> a nebo napřímo na kontaktech níže.<\/p>",
+          "contact_info_text": "<p>Kontaktujte nás přes kontaktní formulář <a href=\"\/pages\/kontakt\" title=\"Napište nám\">tady<\/a> a nebo napřímo na kontaktech níže.<\/p>",
           "contact_1_icon": "bi-phone",
           "contact_1_heading": "Volejte +420 603 855 855",
           "contact_1_text": "<p>Od pondělí do pátku do 15:30<\/p>",
@@ -881,7 +882,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/Opakovany_nakup.jpg",
               "title": "Stejný nákup jako minule?",
-              "content": "<p>Přihlaste se a zopakujte poslední objednávku na pár kliků.<br\/><a href=\"https:\/\/harmonia-vini-store.myshopify.com\/account\/login\" title=\"https:\/\/harmonia-vini-store.myshopify.com\/account\/login\">Přihlásit se →<\/a><\/p>"
+              "content": "<p>Přihlaste se a zopakujte poslední objednávku na pár kliků.<br\/><a href=\"https:\/\/harmonia-vini-store.myshopify.com\/account\/login\" title=\"https:\/\/harmonia-vini-store.myshopify.com\/account\/login\">Přihlásit se →<\/a><\/p>"
             }
           },
           "1585229854807-1": {
@@ -1107,6 +1108,11 @@
           "section_size": "medium",
           "stack_mobile": false
         }
+      },
+      "160517759485b00101": {
+        "type": "heureka-reviews",
+        "settings": {
+        }
       }
     },
     "content_for_index": [
@@ -1119,7 +1125,8 @@
       "1565866285870",
       "1542984882560",
       "1581076303004",
-      "1588980745166"
+      "1588980745166",
+      "160517759485b00101"
     ]
   },
   "presets": {
@@ -1396,7 +1403,8 @@
         },
         "product-recommendations": {
           "type": "product-recommendations",
-          "settings": {}
+          "settings": {
+          }
         },
         "announcement-bar": {
           "type": "announcement-bar",
@@ -1690,7 +1698,8 @@
         },
         "product-recommendations": {
           "type": "product-recommendations",
-          "settings": {}
+          "settings": {
+          }
         },
         "announcement-bar": {
           "type": "announcement-bar",
